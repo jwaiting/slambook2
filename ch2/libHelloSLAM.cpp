@@ -1,4 +1,4 @@
-//这是一个库文件
+//這是一個函示庫
 #include <iostream>
 using namespace std;
 

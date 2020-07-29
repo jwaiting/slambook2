@@ -1,8 +1,8 @@
 #ifndef LIBHELLOSLAM_H_
 #define LIBHELLOSLAM_H_
-// 上面的宏定义是为了防止重复引用这个头文件而引起的重定义错误
+//上面的巨集定義是為了防止重複引用這個標頭檔而引起的重複定義錯誤
 
-// 打印一句hello的函数
+// 輸出一句hello的函數
 void printHello();
 
 #endif
